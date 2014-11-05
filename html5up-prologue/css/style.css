@@ -536,7 +536,7 @@
 		left: 0;
 		width: 375px;
 		height: 100%;
-		color: #000;
+		color: #fff;
 		background: #222629 url('images/overlay.png');
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0,0,0,0.1);
 		text-align: right;
@@ -782,12 +782,20 @@
 			#main > section.four
 			{
 				background-color: #e8edec;
+
 			}
 
 			#main > section.five
 			{
-				background-color: #e8edec;
+				background-color: #ecf1f1;
+
 			}
+/*********************************************************************************/
+*#Mapbox{
+  float: left
+  ;
+}*/
+/*********************************************************************************/
 /*********************************************************************************/
 html, body {margin: 0; padding: 0;}
 
@@ -806,11 +814,3 @@ html, body {margin: 0; padding: 0;}
 }
 
 #myProjects img {border: 0;}
-/*********************************************************************************/
-
-/*********************************************************************************/
-#Mapbox{
-  float: left;
-}
-
-
